@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Android/MEMOAPP/app/src/main/res/drawable/edit_text_background.xml" value="0.2890625" />
+        <entry key="..\:/Projects/Android/MEMOAPP/app/src/main/res/layout/activity_collaboration.xml" value="0.27291666666666664" />
+        <entry key="..\:/Projects/Android/MEMOAPP/app/src/main/res/layout/activity_create_memo.xml" value="0.27291666666666664" />
+        <entry key="..\:/Projects/Android/MEMOAPP/app/src/main/res/layout/activity_customer_name.xml" value="0.27291666666666664" />
+        <entry key="..\:/Projects/Android/MEMOAPP/app/src/main/res/layout/activity_log_visit.xml" value="0.27291666666666664" />
+        <entry key="..\:/Projects/Android/MEMOAPP/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Projects/Android/MEMOAPP/app/src/main/res/layout/activity_memo_home.xml" value="0.27291666666666664" />
+        <entry key="..\:/Projects/Android/MEMOAPP/app/src/main/res/layout/activity_message.xml" value="0.27291666666666664" />
+        <entry key="..\:/Projects/Android/MEMOAPP/app/src/main/res/layout/activity_stock_sheet.xml" value="0.27291666666666664" />
+        <entry key="..\:/Projects/Android/MEMOAPP/app/src/main/res/layout/activity_view_memo_visit.xml" value="0.27291666666666664" />
+        <entry key="..\:/Projects/Android/MEMOAPP/app/src/main/res/layout/single_choose_department.xml" value="0.27291666666666664" />
+        <entry key="..\:/Projects/Android/MEMOAPP/app/src/main/res/layout/single_customer_name.xml" value="0.27291666666666664" />
+        <entry key="..\:/Projects/Android/MEMOAPP/app/src/main/res/layout/single_message_list.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
